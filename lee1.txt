@@ -1,2 +1,2 @@
 Hi my name is leena.
-I m tryinr to do git commandas.
+I m trying to do git commandas.
