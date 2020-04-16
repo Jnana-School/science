@@ -1,2 +1,3 @@
 Hi my name is leena.
-I m trying to do git commandas.
+I m trying to do git commandas
+I want to do push this file.
